@@ -22,7 +22,7 @@
     },
     {
       "nombre": "Pedro Luis Ramírez",
-      "carrera": "Ingeniería en Sistemas",
+      "carrera": "Ingeniería de Sistemas y Computación",
       "edad": 23,
       "matricula": "23-EISN-1-045",
       "universidad": "Universidad Dominicana O&M",
@@ -95,6 +95,566 @@
       "carrera": "Administración de Empresas",
       "edad": 23,
       "matricula": "23-EADM-2-067",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Sofía Pérez Castro",
+      "carrera": "Mercadotecnia",
+      "edad": 21,
+      "matricula": "24-EMER-1-023",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Fabián Rojas Soto",
+      "carrera": "Comunicación Social",
+      "edad": 22,
+      "matricula": "23-ECOS-1-054",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Isabel Victoria Reyes",
+      "carrera": "Ingeniería Industrial",
+      "edad": 24,
+      "matricula": "22-EIND-2-088",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Ricardo Antonio Soto",
+      "carrera": "Relaciones Internacionales",
+      "edad": 23,
+      "matricula": "23-ERIN-1-019",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Carolina Herrera Castro",
+      "carrera": "Administración de Empresas Turísticas y Hoteleras",
+      "edad": 20,
+      "matricula": "24-EHOT-1-065",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Gabriel Alejandro Morales",
+      "carrera": "Odontología",
+      "edad": 25,
+      "matricula": "21-EODO-3-112",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Paola Andrea Ramírez",
+      "carrera": "Nutrición",
+      "edad": 22,
+      "matricula": "23-ENUT-1-078",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Alejandro José Vargas",
+      "carrera": "Educación Física",
+      "edad": 21,
+      "matricula": "24-EEFU-1-091",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Natalia Fernández Guzmán",
+      "carrera": "Gestión Financiera",
+      "edad": 23,
+      "matricula": "23-EGFI-2-026",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "David Mateo Castillo",
+      "carrera": "Ingeniería de Sistemas y Computación",
+      "edad": 24,
+      "matricula": "22-EASW-3-039",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Gabriela Pérez López",
+      "carrera": "Comunicación Social",
+      "edad": 22,
+      "matricula": "23-ECAU-1-081",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Santiago Méndez Ruiz",
+      "carrera": "Mercadotecnia",
+      "edad": 21,
+      "matricula": "24-EPYM-1-018",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Victoria Alejandra Soto",
+      "carrera": "Gestión de Recursos Humanos",
+      "edad": 23,
+      "matricula": "23-EGRH-2-057",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Carlos Alberto Jiménez",
+      "carrera": "Ingeniería en Telemática",
+      "edad": 25,
+      "matricula": "21-ETEL-3-069",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "María Fernanda Dávila",
+      "carrera": "Comunicación Social",
+      "edad": 20,
+      "matricula": "24-ECPU-1-011",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Javier Alejandro Castro",
+      "carrera": "Lenguas Extranjeras (Francés e Inglés)",
+      "edad": 22,
+      "matricula": "23-EELM-1-049",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Luisa Fernanda Torres",
+      "carrera": "Ingeniería Electrónica",
+      "edad": 24,
+      "matricula": "22-ELEC-2-099",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Gustavo Adolfo Rosas",
+      "carrera": "Administración de Empresas Turísticas y Hoteleras",
+      "edad": 21,
+      "matricula": "24-ETUR-1-036",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Andrea Carolina Méndez",
+      "carrera": "Ciencias Económicas y Administrativas",
+      "edad": 23,
+      "matricula": "23-ENIN-2-071",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Felipe Santiago Morales",
+      "carrera": "Ciencias Económicas y Administrativas",
+      "edad": 25,
+      "matricula": "21-EGEP-3-105",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Gabriela Isabel Vargas",
+      "carrera": "Educación Artística",
+      "edad": 20,
+      "matricula": "24-EEAR-1-028",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Julián David Herrera",
+      "carrera": "Ingeniería Industrial",
+      "edad": 22,
+      "matricula": "23-EMEC-1-086",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Silvia Juliana Castillo",
+      "carrera": "Comunicación Social",
+      "edad": 24,
+      "matricula": "22-EPDI-2-044",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Ricardo Javier Ortiz",
+      "carrera": "Derecho",
+      "edad": 21,
+      "matricula": "24-ECRI-1-073",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Valentina Sofía Gómez",
+      "carrera": "Ciencias Sociales",
+      "edad": 23,
+      "matricula": "23-ECPO-2-095",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Manuel Francisco Osorio",
+      "carrera": "Ciencias e Ingenierías",
+      "edad": 25,
+      "matricula": "21-EBIO-3-021",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Diana Carolina Ramos",
+      "carrera": "Educación Secundaria (Ciencias Sociales)",
+      "edad": 20,
+      "matricula": "24-EECS-1-052",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Omar Felipe Vásquez",
+      "carrera": "Ingeniería",
+      "edad": 22,
+      "matricula": "23-EERE-1-084",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Natalia Inés Guzmán",
+      "carrera": "Ciencias Económicas y Administrativas",
+      "edad": 24,
+      "matricula": "22-EECO-2-061",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Juan Pablo Soto",
+      "carrera": "Humanidades y Ciencias Sociales",
+      "edad": 21,
+      "matricula": "24-EFIL-1-016",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Laura Marcela Morales",
+      "carrera": "Educación Artística",
+      "edad": 23,
+      "matricula": "23-EEMU-2-092",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Diego Andrés Herrera",
+      "carrera": "Ingeniería de Sistemas y Computación",
+      "edad": 25,
+      "matricula": "21-ECCO-3-034",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Camila Victoria Pérez",
+      "carrera": "Arquitectura",
+      "edad": 20,
+      "matricula": "24-EDIN-1-075",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Sebastián Alejandro Ríos",
+      "carrera": "Ingeniería Civil",
+      "edad": 22,
+      "matricula": "23-EGCO-1-029",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Mariana Lucía Castillo",
+      "carrera": "Ciencias e Ingenierías",
+      "edad": 24,
+      "matricula": "22-EGEO-2-087",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Andrés Felipe Guerrero",
+      "carrera": "Comunicación Social",
+      "edad": 21,
+      "matricula": "24-EPER-1-041",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Carolina Isabel Torres",
+      "carrera": "Humanidades y Ciencias Sociales",
+      "edad": 23,
+      "matricula": "23-EHAR-2-094",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Daniel Esteban López",
+      "carrera": "Ingeniería",
+      "edad": 25,
+      "matricula": "21-EMIN-3-066",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Laura Sofía Jiménez",
+      "carrera": "Comunicación Social",
+      "edad": 20,
+      "matricula": "24-ECIC-1-014",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Pablo José Ortiz",
+      "carrera": "Ciencias e Ingenierías",
+      "edad": 22,
+      "matricula": "23-EGAM-1-037",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Mónica Alejandra Sánchez",
+      "carrera": "Psicología (Clínica)",
+      "edad": 24,
+      "matricula": "22-EPCL-2-058",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Felipe Andrés Giraldo",
+      "carrera": "Cultura Física, Deporte y Recreación",
+      "edad": 21,
+      "matricula": "24-ECID-1-083",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Valeria Daniela Méndez",
+      "carrera": "Mercadotecnia",
+      "edad": 23,
+      "matricula": "23-EMED-2-024",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Christian Fernando Castro",
+      "carrera": "Ingeniería",
+      "edad": 25,
+      "matricula": "21-EIAL-3-096",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Juliana Isabel Morales",
+      "carrera": "Comunicación Social",
+      "edad": 20,
+      "matricula": "24-EMAU-1-053",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Gabriel Antonio Pérez",
+      "carrera": "Ciencias Económicas y Administrativas",
+      "edad": 22,
+      "matricula": "23-EFIN-1-046",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Sara Valentina Torres",
+      "carrera": "Ingeniería",
+      "edad": 24,
+      "matricula": "22-EBIO-2-085",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Juan Felipe Salazar",
+      "carrera": "Humanidades y Ciencias Sociales",
+      "edad": 21,
+      "matricula": "24-EHIS-1-020",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Ana Sofía Ruiz",
+      "carrera": "Comunicación Social",
+      "edad": 23,
+      "matricula": "23-ECIG-2-040",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Ricardo Antonio Núñez",
+      "carrera": "Ingeniería Electrónica",
+      "edad": 25,
+      "matricula": "21-ETEL-3-079",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Paula Andrea Mendoza",
+      "carrera": "Administración de Empresas Turísticas y Hoteleras",
+      "edad": 20,
+      "matricula": "24-EGET-1-017",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "José Luis Castro",
+      "carrera": "Comunicación Social",
+      "edad": 22,
+      "matricula": "23-ECIT-1-030",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Valentina Alexandra Pérez",
+      "carrera": "Arquitectura",
+      "edad": 24,
+      "matricula": "22-EARP-2-089",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Camilo Andrés Ríos",
+      "carrera": "Ingeniería Civil",
+      "edad": 21,
+      "matricula": "24-EIAM-1-048",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Andrea Cristina Morales",
+      "carrera": "Comunicación Social",
+      "edad": 23,
+      "matricula": "23-ECES-2-064",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Jorge Mario Torres",
+      "carrera": "Matemática Orientada a la Educación Secundaria",
+      "edad": 25,
+      "matricula": "21-EEMA-3-072",
       "universidad": "Universidad Dominicana O&M",
       "ciudad": "Santo Domingo, República Dominicana",
       "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
