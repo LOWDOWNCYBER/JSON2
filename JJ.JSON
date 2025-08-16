@@ -1,0 +1,104 @@
+{
+  "universitarios": [
+    {
+      "nombre": "Juan Carlos",
+      "carrera": "Psicología",
+      "edad": 20,
+      "matricula": "24-EISN-1-012",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "María Gómez Sánchez",
+      "carrera": "Derecho",
+      "edad": 22,
+      "matricula": "21-EADM-2-125",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Pedro Luis Ramírez",
+      "carrera": "Ingeniería en Sistemas",
+      "edad": 23,
+      "matricula": "23-EISN-1-045",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Ana Gabriela Torres",
+      "carrera": "Arquitectura",
+      "edad": 24,
+      "matricula": "22-EARC-3-098",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Luis Alberto Pérez",
+      "carrera": "Medicina",
+      "edad": 25,
+      "matricula": "21-EMED-2-056",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Camila Rodríguez Martínez",
+      "carrera": "Contabilidad",
+      "edad": 22,
+      "matricula": "23-ECON-1-032",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Francisco Javier Núñez",
+      "carrera": "Ingeniería Civil",
+      "edad": 24,
+      "matricula": "22-ECIV-2-077",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Daniela Morales Fernández",
+      "carrera": "Diseño Gráfico",
+      "edad": 21,
+      "matricula": "24-EDIS-1-043",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Andrés Felipe Cruz",
+      "carrera": "Educación Inicial",
+      "edad": 20,
+      "matricula": "24-EEDU-1-015",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    },
+    {
+      "nombre": "Valeria Gómez Torres",
+      "carrera": "Administración de Empresas",
+      "edad": 23,
+      "matricula": "23-EADM-2-067",
+      "universidad": "Universidad Dominicana O&M",
+      "ciudad": "Santo Domingo, República Dominicana",
+      "logo_universidad": "https://pbs.twimg.com/profile_images/730482811711442945/5q07pGsG_400x400.jpg",
+      "foto_universidad": "https://www.udoym.edu.do/noticias-articulos/wp-content/uploads/2016/11/noticia_5.jpg"
+    }
+  ]
+}
